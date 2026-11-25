@@ -61,15 +61,6 @@
 - 任何账号、口令、域名。
 - 游戏本体、存档、攻略原文。存档解析借用了开源项目的偏移表，放代码时会逐一注明。
 
-## 同一个家里的其他东西
-
-这些是同一个人和同一个 AI 一起做的，可以连着看：
-
-- [ai-live2d-from-one-image](https://github.com/waterside0219/ai-live2d-from-one-image)：一张平面图做成会动的 Live2D，也讲了怎么做成 Windows 桌面上的透明桌宠
-- [android-phone-as-ai-body](https://github.com/waterside0219/android-phone-as-ai-body)：给 AI 一部手机当身子，脸、眼睛、耳朵、嗓子
-- [ai-answers-real-phone-calls](https://github.com/waterside0219/ai-answers-real-phone-calls)：AI 接一通真的电话（进行中）
-- [ai-handwritten-imessage](https://github.com/waterside0219/ai-handwritten-imessage)：AI 用自己的笔迹，在 iMessage 里一笔一笔写字
-
 ## 许可
 
 MIT。
