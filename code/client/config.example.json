@@ -1,0 +1,20 @@
+{
+  "base_url": "https://play.example.com",
+  "device_token": "",
+  "games": [],
+  "side_button": "XBUTTON2",
+  "paused": false,
+  "talk_level": "normal",
+  "font_size": 26,
+  "left": -1,
+  "top": -1,
+  "width": 900,
+  "hotkeys": {
+    "pause": "F9",
+    "talk": "F10",
+    "unlock": "Ctrl+Alt+L"
+  },
+  "voice_button": "XBUTTON1",
+  "live2d": true,
+  "bottom_subtitles": false
+}

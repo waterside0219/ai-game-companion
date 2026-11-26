@@ -1,0 +1,7 @@
+:root { color-scheme: dark; font-family: "Microsoft YaHei UI", "PingFang SC", sans-serif; }
+* { box-sizing: border-box; }
+html,body { margin:0; width:100%; height:100%; overflow:hidden; background:transparent; user-select:none; }
+#model { position:absolute; left:0; bottom:0; width:100%; height:calc(100% - 192px); }
+#subtitle,#status { position:absolute; left:12px; right:12px; pointer-events:none; text-align:center; white-space:pre-wrap; overflow-wrap:anywhere; color:white; text-shadow:0 1px 3px #000,0 0 5px #000; }
+#subtitle { top:12px; padding:8px 10px; font-size:18px; line-height:1.4; border-radius:12px; background:rgba(17,23,33,.78); opacity:0; transition:opacity 1.5s; max-height:156px; overflow:hidden; }
+#status { top:171px; font-size:13px; line-height:18px; }

@@ -1,0 +1,9 @@
+.private/
+logs/
+__pycache__/
+*.pyc
+client/electron/
+client/live2d/vendor/
+client/live2d/runtime/
+saves/p5r/change-of-heart/
+saves/pbz/wasm/

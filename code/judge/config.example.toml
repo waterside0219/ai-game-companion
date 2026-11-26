@@ -1,0 +1,14 @@
+host = "127.0.0.1"
+port = 8833
+entry_url = "http://127.0.0.1:8798/desk/event"
+log_path = ".private/judge.jsonl"
+direct_tmpfs = ""
+competitive_games = ["示例对抗游戏"]
+
+# Copy into .private/config.toml and fill these in.
+device_token = ""
+minimax_key_path = ""
+voice_id = ""
+
+# Additional opt-in: DESK_PROVIDERS=real alone does not enable microphone transcription.
+transcribe_enabled = false
