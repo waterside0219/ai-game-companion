@@ -68,7 +68,7 @@
 
 ## 致谢
 
-- 感谢小红书博主[**电脑眠眠豹**](https://www.xiaohongshu.com/user/profile/5c3c41b40000000006002e5d)：陪玩浮层，这个思路和教程是从这位博主那里学来的。
+- 感谢小红书博主[**电脑眠眠豹**](https://www.xiaohongshu.com/user/profile/5c3c41b40000000006002e5d)：陪玩浮层的思路和教程，是从这位博主那里学来的。
 
 ## 不包含的
 
